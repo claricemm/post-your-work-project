@@ -12,10 +12,13 @@ _Installation_
  'pip install pandas'
 
 _Set up_
+ 
  1. Clone this repository: 'git clone https://github.com/claricemm/post-your-work-project'
+ 
  2. Navigate to the project directory: 'cd post-your-work-project'
 
 _Common Issues_
+ 
  **ModuleNotFoundError** 
  No module named 'pandas'
  To do: Install pandas: 'pip install pandas'
@@ -27,12 +30,12 @@ _Common Issues_
 
 Contributions are welcome! If you would like to improve this project, please follow these steps:
 
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-3. Make your changes and test them.
-4. Commit your changes with a clear and descriptive commit message.
-5. Push your branch to your fork.
-6. Open a Pull Request describing your changes.
+1. **Fork** the repository.
+2. Create a **new branch** for your feature or bug fix.
+3. Make your changes and **test** them.
+4. Commit your changes with a **clear and descriptive** commit message.
+5. **Push** your branch to your fork.
+6. Open a **Pull Request** describing your changes.
 
 ## Credits
 
