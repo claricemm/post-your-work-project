@@ -4,8 +4,11 @@ This project analyzes **bike-sharing data** from New York City. Users can intera
 ## Information about how to use your project
 
 _Installation_
- Prerequisites: Before running the project, make sure you have: Python 3.8 or later, pip (Python package manager)
- Install Dependencies: Install the required Python package: 
+ 1. Prerequisites: 
+ Before running the project, make sure you have: Python 3.8 or later, pip (Python package manager)
+ 
+ 2. Install Dependencies: 
+ Install the required Python package: 
  'pip install pandas'
 
 _Set up_
@@ -13,8 +16,9 @@ _Set up_
  2. Navigate to the project directory: 'cd post-your-work-project'
 
 _Common Issues_
- **ModuleNotFoundError**: No module named 'pandas'
- Install pandas: 'pip install pandas'
+ **ModuleNotFoundError** 
+ No module named 'pandas'
+ To do: Install pandas: 'pip install pandas'
 
  **FileNotFoundError**
  Make sure the following file are in the same directory as bikeshare.py: new_york_city.csv
@@ -32,7 +36,7 @@ Contributions are welcome! If you would like to improve this project, please fol
 
 ## Credits
 
-This project was developed as part of the Udacity Introduction Version Control.
+This project was developed as part of the **Udacity Introduction Version Control**.
 
 ## Date created
 
