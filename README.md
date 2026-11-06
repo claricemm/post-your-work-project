@@ -37,4 +37,4 @@ It's important to give proper credit. Add links to any repo that inspired you or
 
 ## Date created
 
-November 6, 2026
+This project was created on November 6, 2026
